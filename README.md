@@ -1,1 +1,1 @@
-# https-github.com-Qonyss-whatsapp-redirect
+whatsapp-redirect.html
